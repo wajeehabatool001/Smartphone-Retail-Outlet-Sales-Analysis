@@ -1,6 +1,7 @@
 # Sales-Analysis
 This repository features diverse sales analysis projects, including retail store performance, product trends, payment methods, and more. It showcases data cleaning, visualization, and analysis techniques to uncover valuable business insights across various sales domains. Perfect for exploring and improving sales strategies.
-Sales Overview Dashboard
+
+**Sales Overview Dashboard**
 
 **1.Total Revenue:** This KPI will display the total revenue generated from all sales, providing a comprehensive measure of overall financial performance for the smartphone retail outlet.
 
