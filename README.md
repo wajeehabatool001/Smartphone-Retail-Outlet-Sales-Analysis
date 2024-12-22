@@ -2,7 +2,7 @@
 This repository features diverse sales analysis projects, including retail store performance, product trends, payment methods, and more. It showcases data cleaning, visualization, and analysis techniques to uncover valuable business insights across various sales domains. Perfect for exploring and improving sales strategies.
 Sales Overview Dashboard
 
-1.Total Revenue:This KPI will display the total revenue generated from all sales, providing a comprehensive measure of overall financial performance for the smartphone retail outlet.
+**1.Total Revenue:** This KPI will display the total revenue generated from all sales, providing a comprehensive measure of overall financial performance for the smartphone retail outlet.
 
 2.Average Order Value:Average Order Value will display the average revenue per unique product ordered, helping assess customer spending patterns on each purchase.
 
